@@ -1,5 +1,5 @@
-winconn (0.2.14-1) quantal; urgency=low
+winconn (0.2.14-1-1) quantal; urgency=low
 
-  * Fix main app icon
+  * Add tr.po
 
- -- Alex Stanev <alex@stanev.org>  Sun, 26 Nov 2012 11:56:58 +0300
+ -- Gökhan Gökkaya <gokhanlnx@gmail.com>  Thu, 19 July 2017 21:09:00 +0300
