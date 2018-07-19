@@ -1,0 +1,507 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Gökhan Gökkaya <gokhanlnx@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-26 11:58+0200\n"
+"PO-Revision-Date: 2018-07-19 20:53+0300\n"
+"Language-Team: Linux Mint Türkiye\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#: ../winconn/WinconnWindow.py:58
+msgid "xfreerdp died unexpectedly"
+msgstr "xfreerdp beklenmedik bir şekilde öldü"
+
+#: ../winconn/WinconnWindow.py:59
+msgid "Success"
+msgstr "Başarılı"
+
+#: ../winconn/WinconnWindow.py:60
+msgid "Disconnect"
+msgstr "Bağlantıyı kes"
+
+#: ../winconn/WinconnWindow.py:61
+msgid "Logoff"
+msgstr "Oturum kapat"
+
+#: ../winconn/WinconnWindow.py:62
+msgid "Idle timeout"
+msgstr "Boşta kalma zaman aşımı"
+
+#: ../winconn/WinconnWindow.py:63
+msgid "Logon timeout"
+msgstr "Oturum zaman aşımı"
+
+#: ../winconn/WinconnWindow.py:64
+msgid "Connection replaced"
+msgstr "Bağlantı değiştirildi"
+
+#: ../winconn/WinconnWindow.py:65
+msgid "Out of memory"
+msgstr "Yetersiz bellek"
+
+#: ../winconn/WinconnWindow.py:66
+msgid "Connection denied"
+msgstr "Bağlantı reddedildi"
+
+#: ../winconn/WinconnWindow.py:67
+msgid "Connection denied FIPS"
+msgstr "Bağlantı reddedildi FIPS"
+
+#: ../winconn/WinconnWindow.py:68
+msgid "Remote user does not have required privileges"
+msgstr "Uzak kullanıcı gerekli haklara sahip değil"
+
+#: ../winconn/WinconnWindow.py:69
+msgid "Fresh credientials required"
+msgstr "Yeni kimlik bilgileri gerekli"
+
+#: ../winconn/WinconnWindow.py:70
+msgid "Disconnected by user"
+msgstr "Kullanıcı tarafından kesildi"
+
+#: ../winconn/WinconnWindow.py:71
+msgid "Internal"
+msgstr "Dahili"
+
+#: ../winconn/WinconnWindow.py:72
+msgid "No license server"
+msgstr "Lisans sunucusu yok"
+
+#: ../winconn/WinconnWindow.py:73
+msgid "No license"
+msgstr "Lisans yok"
+
+#: ../winconn/WinconnWindow.py:74
+msgid "Bad message from client"
+msgstr "İstemciden yanlış mesaj"
+
+#: ../winconn/WinconnWindow.py:75
+msgid "HWID does not match"
+msgstr "HWID eşleşmiyor"
+
+#: ../winconn/WinconnWindow.py:76
+msgid "Bad client"
+msgstr "Kötü istemci"
+
+#: ../winconn/WinconnWindow.py:77
+msgid "Can not finish protocol"
+msgstr "Protokol bitirelemedi"
+
+#: ../winconn/WinconnWindow.py:78
+msgid "Client ended protocol"
+msgstr "İstemci protokolü sona erdi"
+
+#: ../winconn/WinconnWindow.py:79
+msgid "Bad client encryption"
+msgstr "Kötü istemci şifrelemesi"
+
+#: ../winconn/WinconnWindow.py:80
+msgid "Can not upgrade protocol"
+msgstr "Protokol yükseltilemedi"
+
+#: ../winconn/WinconnWindow.py:81
+msgid "No remote connections allowed"
+msgstr "Uzak bağlantıya izin verilmiyor"
+
+#: ../winconn/WinconnWindow.py:82
+msgid "RDP protocol error"
+msgstr "RDP protokol hatası"
+
+#: ../winconn/WinconnWindow.py:83
+msgid "Bad xfreerdp options. Consider filling a bug on Launchpad"
+msgstr ""
+"Hatalı freerdp seçenekleri. Bu hata ile ilgili Launchpad üstünde hata "
+"bildiriminde bulunabilirsiniz"
+
+#: ../winconn/WinconnWindow.py:84
+msgid "xfreerdp out of memory"
+msgstr "xfreerdp bellek yetersizliği"
+
+#: ../winconn/WinconnWindow.py:85
+msgid "xfreerdp protocol error"
+msgstr "xfreerdp protokol hatası"
+
+#: ../winconn/WinconnWindow.py:86
+msgid "Connection to server failed"
+msgstr "Sunucuya bağlantısı başarısız"
+
+#: ../winconn/WinconnWindow.py:105
+msgid "Unknown return code {0}"
+msgstr "Bilinmeyen dönüş kodu {0}"
+
+#: ../winconn/WinconnWindow.py:108
+msgid "Application not in RemoteApp list. Check help to fix this."
+msgstr ""
+"Uygulama RemoteApp listesinde yok. Bunun için yardımı içeriğini kontrol edin."
+
+#: ../winconn/WinconnWindow.py:110
+msgid "Could not execute remote application."
+msgstr "Uzak uygulama çalıştırılamadı."
+
+#: ../winconn/WinconnWindow.py:244
+msgid "No application for execution selected"
+msgstr "Çalıştırma seçimi için uygulama yok"
+
+#: ../winconn/WinconnWindow.py:248
+msgid "Selected application has configuration errors"
+msgstr "Seçilen uygulamanın yapılandırma hataları var"
+
+#: ../winconn/WinconnWindow.py:266
+msgid "No application selected for deletion"
+msgstr "Silme için seçili uygulama yok"
+
+#: ../winconn/WinconnWindow.py:270
+msgid "Are you sure you want to delete {0} ?"
+msgstr "Silmek istediğinize emin misiniz {0} ?"
+
+#: ../winconn/WinconnWindow.py:280
+msgid "No application selected to create desktop launcher"
+msgstr "Masaüstü başlatıcısı oluşturmak için seçili uygulama yok"
+
+#: ../winconn/WinconnWindow.py:351
+msgid "Remmina import finnished"
+msgstr "Remmina içe aktarımı bitti"
+
+#: ../winconn/WinconnWindow.py:354
+msgid "Select RDP file to import"
+msgstr "İçe aktarma için RDP dosyası seç"
+
+#: ../winconn/WinconnWindow.py:359
+msgid "Windows Remote Desktop files"
+msgstr "Windows Uzak Masaüstü dosyaları"
+
+#: ../winconn/WinconnWindow.py:378
+msgid "RDP import succeessful"
+msgstr "RDP içe aktarma başarılı"
+
+#: ../winconn/WinconnWindow.py:380
+msgid "RDP import unsuccessful"
+msgstr "RDP içe aktarma başarısız"
+
+#: ../winconn/WinconnWindow.py:403
+msgid "Please check your application configuration"
+msgstr "Uygulama yapılandırmanızı kontrol ediniz"
+
+#: ../winconn/WinconnWindow.py:411
+msgid "New application added successfully"
+msgstr "Yeni uygulama başarıyla eklendi"
+
+#: ../winconn/WinconnWindow.py:420
+msgid "Application updated successfully"
+msgstr "Uygulama başarıyla güncellendi"
+
+#: ../data/ui/WinconnWindow.ui.h:1 ../winconn.desktop.in.h:1
+msgid "WinConn"
+msgstr "WinConn"
+
+#: ../data/ui/WinconnWindow.ui.h:2
+msgid "_Connection"
+msgstr "_Bağlantı"
+
+#: ../data/ui/WinconnWindow.ui.h:3
+msgid "_New"
+msgstr "_Yeni"
+
+#: ../data/ui/WinconnWindow.ui.h:4
+msgid "_Execute"
+msgstr "_Çalıştır"
+
+#: ../data/ui/WinconnWindow.ui.h:5
+msgid "_Remove"
+msgstr "_Sil"
+
+#: ../data/ui/WinconnWindow.ui.h:6
+msgid "_Tools"
+msgstr "_Araçlar"
+
+#: ../data/ui/WinconnWindow.ui.h:7
+msgid "Create desktop launcher"
+msgstr "Masaüstü başlatıcı oluştur"
+
+#: ../data/ui/WinconnWindow.ui.h:8
+msgid "Import from Remmina"
+msgstr "Remmina'dan içe aktar"
+
+#: ../data/ui/WinconnWindow.ui.h:9
+msgid "Import from RDP file"
+msgstr "RDP dosyasından içe aktar"
+
+#: ../data/ui/WinconnWindow.ui.h:10
+msgid "_Help"
+msgstr "_Yardım"
+
+#: ../data/ui/WinconnWindow.ui.h:11
+msgid "Execute"
+msgstr "Çalıştır"
+
+#: ../data/ui/WinconnWindow.ui.h:12
+msgid "New"
+msgstr "Yeni"
+
+#: ../data/ui/WinconnWindow.ui.h:13
+msgid "Delete"
+msgstr "Sil"
+
+#: ../data/ui/WinconnWindow.ui.h:14
+msgid "Quit"
+msgstr "Kapat"
+
+#: ../data/ui/WinconnWindow.ui.h:15
+msgid "Name"
+msgstr "İsim"
+
+#: ../data/ui/WinconnWindow.ui.h:16
+msgid "App"
+msgstr "Uygulama"
+
+#: ../data/ui/WinconnWindow.ui.h:17
+msgid "Server"
+msgstr "Sunucu"
+
+#: ../data/ui/WinconnWindow.ui.h:18
+msgid "Please select remote application or create new"
+msgstr "Lütfen uzak uygulama seçin ya da yeni oluşturun"
+
+#: ../data/ui/WinconnWindow.ui.h:19
+msgid "Application name"
+msgstr "Uygulama adı"
+
+#: ../data/ui/WinconnWindow.ui.h:20
+msgid "Name must be unique and consists of letters and numbers"
+msgstr "İsim benzersiz olmalı ve harf ve rakamlardan oluşmalıdır"
+
+#: ../data/ui/WinconnWindow.ui.h:21
+msgid "Application"
+msgstr "Uygulama"
+
+#: ../data/ui/WinconnWindow.ui.h:22
+msgid "Application to execute. Avoid using \":\""
+msgstr "Çalıştırma için uygulama. Kullanmaktan kaçının \":\""
+
+#: ../data/ui/WinconnWindow.ui.h:23
+msgid "Application can't be empty. Refer to Help about more info on this field"
+msgstr ""
+"Uygulama boş bırakılamaz. Bu ilgili daha fazla bilgi hakkında Yardım "
+"bölümüne bakını."
+
+#: ../data/ui/WinconnWindow.ui.h:24
+msgid "Terminal server address"
+msgstr "Terminal sunucusu adresi"
+
+#: ../data/ui/WinconnWindow.ui.h:25
+msgid "Server can't be empty"
+msgstr "Sunucu boş olamaz"
+
+#: ../data/ui/WinconnWindow.ui.h:26
+msgid "Password"
+msgstr "Şifre"
+
+#: ../data/ui/WinconnWindow.ui.h:27
+msgid "Domain"
+msgstr "Alan adı"
+
+#: ../data/ui/WinconnWindow.ui.h:28
+msgid "Port"
+msgstr "Port"
+
+#: ../data/ui/WinconnWindow.ui.h:29
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: ../data/ui/WinconnWindow.ui.h:30
+msgid "Username cant't be empty"
+msgstr "Kullanıcı adı boş olamaz"
+
+#: ../data/ui/WinconnWindow.ui.h:31
+msgid "3389"
+msgstr "3389"
+
+#: ../data/ui/WinconnWindow.ui.h:32
+msgid "Port have to be in 1-65535 range"
+msgstr "Port 1-65535 aralığında olmalıdır"
+
+#: ../data/ui/WinconnWindow.ui.h:33
+msgid "Disable compression"
+msgstr "Sıkıştırma devre dışı"
+
+#: ../data/ui/WinconnWindow.ui.h:34
+msgid "Disable clipboard"
+msgstr "Pano devre dışı"
+
+#: ../data/ui/WinconnWindow.ui.h:35
+msgid "Disable sound"
+msgstr "Ses devre dışı"
+
+#: ../data/ui/WinconnWindow.ui.h:36
+msgid "Folder to share"
+msgstr "Paylaşılacak dizin"
+
+#: ../data/ui/WinconnWindow.ui.h:37
+msgid "Folder not accessible"
+msgstr "Dizin erişilebilir değil"
+
+#: ../data/ui/WinconnWindow.ui.h:38
+msgid "Disable RemoteFX"
+msgstr "RemoteFX devre dışı"
+
+#: ../data/ui/WinconnWindow.ui.h:39
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../data/ui/WinconnWindow.ui.h:40
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../data/ui/WinconnWindow.ui.h:41
+msgid "Disable printer"
+msgstr "Yazıcı devre dışı"
+
+#. New application
+#: ../winconn/indicator.py:40
+msgid "Show WinConn"
+msgstr "WinConn'u Göster"
+
+#: ../winconn/__init__.py:55
+msgid "Show debug messages (-vv debugs winconn_lib also)"
+msgstr "Hata ayıklama mesajlarını göster  (-vv debugs winconn_lib also)"
+
+#: ../winconn/__init__.py:58
+msgid "Create new application connection"
+msgstr "Yeni uygulama bağlantısı oluştur"
+
+#: ../winconn/__init__.py:61
+msgid "Execute saved application by name"
+msgstr "Kayıtlı uygulamayı isme göre çalıştır"
+
+#: ../winconn/Commons.py:250
+msgid "Enter password for application: "
+msgstr "Uygulama için şifre girin: "
+
+#: ../data/ui/AboutWinconnDialog.ui.h:1
+msgid "About WinConn"
+msgstr "WinConn Hakkında"
+
+#: ../data/ui/AboutWinconnDialog.ui.h:2
+msgid "Copyright (C) 2012 Alex Stanev <alex@stanev.org>"
+msgstr "Copyright (C) 2012 Alex Stanev <alex@stanev.org>"
+
+#: ../data/ui/AboutWinconnDialog.ui.h:3
+msgid "WinConn development is kindly supported by Synapse Ideas"
+msgstr "WinConn development is kindly supported by Synapse Ideas"
+
+#: ../data/ui/AboutWinconnDialog.ui.h:4
+msgid "WinConn site"
+msgstr "WinConn sitesi"
+
+#: ../data/ui/AboutWinconnDialog.ui.h:5
+msgid ""
+"# Copyright (C) 2012 Alex Stanev <alex@stanev.org>\n"
+"# This program is free software: you can redistribute it and/or modify it \n"
+"# under the terms of the GNU General Public License version 3, as "
+"published \n"
+"# by the Free Software Foundation.\n"
+"# \n"
+"# This program is distributed in the hope that it will be useful, but \n"
+"# WITHOUT ANY WARRANTY; without even the implied warranties of \n"
+"# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR \n"
+"# PURPOSE.  See the GNU General Public License for more details.\n"
+"# \n"
+"# You should have received a copy of the GNU General Public License along \n"
+"# with this program.  If not, see <http://www.gnu.org/licenses/>.\n"
+msgstr ""
+"# Copyright (C) 2012 Alex Stanev <alex@stanev.org>\n"
+"# This program is free software: you can redistribute it and/or modify it \n"
+"# under the terms of the GNU General Public License version 3, as "
+"published \n"
+"# by the Free Software Foundation.\n"
+"# \n"
+"# This program is distributed in the hope that it will be useful, but \n"
+"# WITHOUT ANY WARRANTY; without even the implied warranties of \n"
+"# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR \n"
+"# PURPOSE.  See the GNU General Public License for more details.\n"
+"# \n"
+"# You should have received a copy of the GNU General Public License along \n"
+"# with this program.  If not, see <http://www.gnu.org/licenses/>.\n"
+
+#: ../winconn/prompts.py:109 ../winconn/prompts.py:153
+msgid "Input String"
+msgstr "Dizge Girin"
+
+#: ../winconn/prompts.py:109 ../winconn/prompts.py:153
+msgid "Input a String:"
+msgstr "Bir Dizge Girin:"
+
+#: ../winconn/prompts.py:176 ../winconn/prompts.py:224
+msgid "Choose Date"
+msgstr "Tarih Seçin"
+
+#: ../winconn/prompts.py:176 ../winconn/prompts.py:224
+msgid "Choose a Date:"
+msgstr "Bir Tarih Seçin:"
+
+#: ../winconn/prompts.py:251 ../winconn/prompts.py:310
+#: ../winconn/prompts.py:392
+msgid "Enter Number"
+msgstr "Numara Girin"
+
+#: ../winconn/prompts.py:251 ../winconn/prompts.py:310
+#: ../winconn/prompts.py:392
+msgid "Enter an Integer Value:"
+msgstr "Tamsayı Değeri Girin:"
+
+#: ../winconn/prompts.py:329 ../winconn/prompts.py:440
+#: ../winconn/prompts.py:501
+msgid "Enter Price"
+msgstr "Fiyat Girin"
+
+#: ../winconn/prompts.py:329 ../winconn/prompts.py:440
+#: ../winconn/prompts.py:501
+msgid "Choose a Price:"
+msgstr "Bir fiyat seçin:"
+
+#: ../winconn/prompts.py:532
+msgid "Choose Yes or No"
+msgstr "Evet veya Hayır'ı seçin"
+
+#: ../winconn/prompts.py:583
+msgid "Choose an option"
+msgstr "Bir seçenek seç"
+
+#: ../winconn/prompts.py:630
+msgid "Warning"
+msgstr "Uyarı"
+
+#: ../winconn/prompts.py:649
+msgid "Error"
+msgstr "Hata"
+
+#: ../winconn/prompts.py:669
+msgid "Information"
+msgstr "Bilgi"
+
+#: ../winconn/prompts.py:733 ../winconn/prompts.py:878
+msgid "Choose an Image"
+msgstr "Bir Resim Seç"
+
+#: ../winconn/prompts.py:901
+msgid "Choose a Directory"
+msgstr "Bir Dizin Seç"
+
+#: ../winconn.desktop.in.h:2
+msgid "WinConn RemoteApp manager"
+msgstr "WinConn Uzak Uygulama yöneticisi"
+
+#: ../winconn.desktop.in.h:3
+msgid "Add new remote app"
+msgstr "Yeni uzak uygulama ekle"
